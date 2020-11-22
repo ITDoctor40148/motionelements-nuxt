@@ -5,11 +5,7 @@
   "description": "frontend site monorepo",
   "workspaces": [
     "packages/*",
-    "app/",
     "search/",
-    "pages/",
-    "artist/",
-    "channels/"
   ],
   "scripts": {
     "lerna": "lerna bootstrap",
