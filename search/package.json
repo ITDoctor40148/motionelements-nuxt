@@ -23,7 +23,6 @@
     "@motionelements/money": "1.*",
     "@motionelements/old-modules": "2.*",
     "@motionelements/testes6": "1.*",
-    "@motionelements/frontend-modules": "1.*",
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/proxy": "^2.0.1",
